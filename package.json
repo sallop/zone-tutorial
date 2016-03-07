@@ -1,0 +1,22 @@
+{
+  "name": "zone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.14",
+    "zone.js": "^0.6.2"
+  },
+  "devDependencies": {
+    "gulp-inject": "^3.0.0",
+    "ts-loader": "^0.8.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

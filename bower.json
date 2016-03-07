@@ -1,0 +1,22 @@
+{
+  "name": "zone",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "sallop <shiogai1987@yahoo.co.jp>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sallop/personal-config-files",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.1",
+    "zone.js": "~0.5.8"
+  }
+}
